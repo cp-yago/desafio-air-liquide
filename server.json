@@ -1,0 +1,23 @@
+{
+  "epis": [
+    {
+      "name": "Basic Facemask"
+    },
+    {
+      "name": "Filtered Respirator"
+    },
+    {
+      "name": "Self-Contained Breathing Apparatus"
+    },
+    {
+      "name": "Protective Clothing"
+    },
+    {
+      "name": "Goggles"
+    }
+  ]
+  
+}
+
+
+
